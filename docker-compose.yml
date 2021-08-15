@@ -18,3 +18,4 @@ db:
     MYSQL_DATABASE: myapp
     MYSQL_USER: myapp
     MYSQL_PASSWORD: mysecurepass
+    
